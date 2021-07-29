@@ -4,3 +4,5 @@
 ## Технологии в проекте
  - Html
  - Css
+ - Js
+ - Swiper slider
